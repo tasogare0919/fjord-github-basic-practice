@@ -1,1 +1,1 @@
-このリポジトリはi[フィヨルドブートキャンプ](https://bootcamp.fjord.jp/)の演習リポジトリです
+このリポジトリは[フィヨルドブートキャンプ](https://bootcamp.fjord.jp/)の演習リポジトリです
